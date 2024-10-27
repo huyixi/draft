@@ -14,3 +14,4 @@ date: 2024-10-27T11:00:42+08:00
 9. Demo: demo.huyixi.com(draft)/design.huyixi.com
 10. Blog v1: blue.huyixi.com
 11. Blog v2: white.huyixi.com
+12. SideToc: sidetoc.huyixi.com
